@@ -1,5 +1,6 @@
 fx_version 'adamant'
 
+autor 'd4z1/d4z1 scripts'
 game 'gta5'
 lua54 'yes'
 shared_script '@ox_lib/init.lua'
